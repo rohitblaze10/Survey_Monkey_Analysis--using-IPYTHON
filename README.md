@@ -65,5 +65,5 @@ Ensure you have the following installed:
 Feel free to fork this repository and make improvements. Pull requests are welcome!
 
 ## License
-[Specify a license, e.g., MIT, Apache 2.0]
+[Specify a license, e.g., MIT, Apache 2.0] .
 
